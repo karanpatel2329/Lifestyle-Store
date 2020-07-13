@@ -1,0 +1,28 @@
+
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+    bottom :0;
+    width: 100%;
+    color: whitesmoke;
+}
+
+.abc{
+    padding: 0;
+    margin-top: 70px;
+    margin-left: px
+    
+}
+div.panel-heading,h3{
+    padding: 0;
+    margin-top: 1px;
+    padding-top: 2px;
+}
+h3{
+    padding-left: 12px;
+}
+
+
+ul {
+    list-style-type: none;
+}

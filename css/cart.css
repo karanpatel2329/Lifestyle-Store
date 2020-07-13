@@ -1,0 +1,18 @@
+.az{
+    padding-top: 100px;
+    padding-left: 65px;
+}
+
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+    bottom :0;
+    width: 100%;
+    color: whitesmoke;
+}
+.space{
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 5px
+        
+}
